@@ -2,8 +2,6 @@ package com.example.demo.DTOs;
 
 import com.example.demo.model.enums.TaskPriority;
 import com.example.demo.model.enums.TaskStatus;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
 import lombok.Getter;
 import lombok.Setter;
 
